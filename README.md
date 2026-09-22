@@ -1,16 +1,22 @@
 # Olá, eu sou o Carlos Avelino! 👋
 ### Desenvolvedor Full Stack | PHP & Node.js
 
-Sou um desenvolvedor apaixonado por criar soluções web completas, do banco de dados à interface do usuário. Especialista em unir a estabilidade do PHP com a modernidade do React/Next.js.
+Sou um desenvolvedor apaixonado por criar soluções web completas, do banco de dados à interface do usuário. Especialista em unir a estabilidade do PHP com a modernidade do React/Next.js, foco em entregar valor real para os negócios garantindo segurança, escalabilidade e performance.
 
 ---
 
-### 🔒 Por que meu GitHub parece vazio?
+### 📦 Projetos Open Source
 
-> **Nota sobre Propriedade Intelectual & NDA:**
-> A grande maioria do meu trabalho é desenvolvida para clientes corporativos sob rigorosos contratos de confidencialidade (NDA). Por esse motivo, o código-fonte dos meus projetos (Sistemas de Intranet, E-commerces e Dashboards) **não pode ser hospedado publicamente**.
+Uma suíte de ferramentas utilitárias *client-side* (processamento 100% no navegador sem backend) voltada para design e papelaria:
 
-Embora meu código seja privado, minha experiência é pública. Eu foco em entregar valor real para negócios, garantindo segurança, escalabilidade e performance.
+* 📓 **Planner Studio** — Gerador de miolos de agendas em PDF vetorial.
+  🔗 [Acessar Ferramenta](https://www.esmeraldapaper.com.br/plannerstudio/) | 💻 [Ver Código no GitHub](https://github.com/avelinocarloscorrea/planner)
+
+* 📅 **Calendar Studio** — Gerador de calendários com cálculo automático de feriados.
+  🔗 [Acessar Ferramenta](https://www.esmeraldapaper.com.br/calendarstudio/) | 💻 [Ver Código no GitHub](https://github.com/avelinocarloscorrea/calendar)
+
+* 📸 **Polaroide Studio** — Montador de polaroides prontas para impressão gráfica.
+  🔗 [Acessar Ferramenta](https://www.esmeraldapaper.com.br/polaroidestudio/) | 💻 [Ver Código no GitHub](https://github.com/avelinocarloscorrea/polaroide)
 
 ---
 
@@ -36,9 +42,9 @@ Embora meu código seja privado, minha experiência é pública. Eu foco em entr
 
 ---
 
-### 🚀 Quer ver meu trabalho em ação?
+### 🚀 Quer ver mais do meu trabalho em ação?
 
-Como não posso mostrar o código, convido você a ver meu **Portfólio Visual** e histórico de entregas na minha plataforma principal de trabalho:
+Convido você a conferir meu **Portfólio Visual** e o histórico das minhas entregas na plataforma onde atuo profissionalmente:
 
 <a href="https://www.workana.com/freelancer/ebaf9b0a960f0a48944e21ba85c858dd">
   <img src="https://img.shields.io/badge/Ver_Perfil_na_Workana-4F5B93?style=for-the-badge&logo=freelancer&logoColor=white" alt="Workana Profile" />

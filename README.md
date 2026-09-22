@@ -5,7 +5,14 @@ Sou um desenvolvedor apaixonado por criar soluções web completas, do banco de 
 
 ---
 
-### 📦 Projetos Open Source
+### 🌐 Projeto em Destaque
+
+* 🛍️ **Esmeralda Paper** — Loja virtual completa. Desenvolvimento de **tema filho (child theme)** totalmente customizado a partir do tema Ashe Pro.
+  🔗 [Visitar o Site](https://www.esmeraldapaper.com.br/)
+
+---
+
+### 📦 Ferramentas Open Source
 
 Uma suíte de ferramentas utilitárias *client-side* (processamento 100% no navegador sem backend) voltada para design e papelaria:
 

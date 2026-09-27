@@ -1,63 +1,34 @@
-# Olá, eu sou o Carlos Avelino! 👋
-### Desenvolvedor Full Stack | PHP & Node.js
+# Carlos Avelino Correa
 
-Sou um desenvolvedor apaixonado por criar soluções web completas, do banco de dados à interface do usuário. Especialista em unir a estabilidade do PHP com a modernidade do React/Next.js, foco em entregar valor real para os negócios garantindo segurança, escalabilidade e performance.
+**Desenvolvedor full stack · Produtos web, ferramentas criativas e e-commerce**
 
----
+Transformo necessidades reais em produtos digitais claros e úteis. Meu trabalho combina desenvolvimento web, experiência de uso e atenção ao que acontece depois do clique — como gerar um arquivo pronto para impressão sem tirar as fotos do dispositivo.
 
-### 🌐 Projeto em Destaque
+## Projetos em destaque
 
-* 🛍️ **Esmeralda Paper** — Loja virtual completa. Desenvolvimento de **tema filho (child theme)** totalmente customizado a partir do tema Ashe Pro.
-  🔗 [Visitar o Site](https://www.esmeraldapaper.com.br/)
+Minha seleção principal é uma suíte de ferramentas open source para criação e impressão. As três aplicações rodam no navegador e permitem criar materiais personalizados para uso real.
 
----
+| Projeto | O que faz | Acessar |
+| --- | --- | --- |
+| **Calendar Studio** | Cria calendários personalizados com fotos e feriados brasileiros; exporta para impressão. | [Abrir ferramenta](https://www.esmeraldapaper.com.br/calendarstudio/) · [Código](https://github.com/avelinocarloscorrea/calendar) |
+| **Planner Studio** | Monta planners e agendas com páginas configuráveis e exportação em PDF vetorial. | [Abrir ferramenta](https://www.esmeraldapaper.com.br/plannerstudio/) · [Código](https://github.com/avelinocarloscorrea/planner) |
+| **Polaroide Studio** | Organiza fotos em folhas com formatos reais, legendas e marcas de corte para impressão. | [Abrir ferramenta](https://www.esmeraldapaper.com.br/polaroidestudio/) · [Código](https://github.com/avelinocarloscorrea/polaroide) |
 
-### 📦 Ferramentas Open Source
+### Esmeralda Paper
 
-Uma suíte de ferramentas utilitárias *client-side* (processamento 100% no navegador sem backend) voltada para design e papelaria:
+Loja virtual de papelaria e casa das ferramentas de criação e impressão.  
+[Visitar Esmeralda Paper](https://www.esmeraldapaper.com.br/)
 
-* 📓 **Planner Studio** — Gerador de miolos de agendas em PDF vetorial.
-  🔗 [Acessar Ferramenta](https://www.esmeraldapaper.com.br/plannerstudio/) | 💻 [Ver Código no GitHub](https://github.com/avelinocarloscorrea/planner)
+## Como trabalho
 
-* 📅 **Calendar Studio** — Gerador de calendários com cálculo automático de feriados.
-  🔗 [Acessar Ferramenta](https://www.esmeraldapaper.com.br/calendarstudio/) | 💻 [Ver Código no GitHub](https://github.com/avelinocarloscorrea/calendar)
+- **Experiência web:** interfaces responsivas, fluxos diretos e atenção aos detalhes de uso.
+- **Desenvolvimento full stack:** React, Next.js, JavaScript, Node.js, PHP e MySQL.
+- **Privacidade por padrão:** nas ferramentas de impressão, fotos e projetos ficam no navegador.
+- **Entrega prática:** produtos acessíveis, documentados e prontos para serem usados.
 
-* 📸 **Polaroide Studio** — Montador de polaroides prontas para impressão gráfica.
-  🔗 [Acessar Ferramenta](https://www.esmeraldapaper.com.br/polaroidestudio/) | 💻 [Ver Código no GitHub](https://github.com/avelinocarloscorrea/polaroide)
+## Contato
 
----
+- [GitHub](https://github.com/avelinocarloscorrea)
+- [E-mail](mailto:carlosavelinocorrea@gmail.com)
+- [Workana](https://www.workana.com/freelancer/ebaf9b0a960f0a48944e21ba85c858dd)
 
-### 🛠️ Minha Caixa de Ferramentas (Tech Stack)
-
-**Front-end & Interfaces:**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-**Back-end & Infra:**
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Synology](https://img.shields.io/badge/-Synology_NAS-B3B3B3?style=flat-square&logo=synology&logoColor=white)
-
-**Especialidades:**
-* 🛒 **E-commerce & Lojas Virtuais** (WooCommerce / Custom)
-* 🏢 **Sistemas de Intranet** (Gestão, Ponto Biométrico, Treinamentos)
-* 🤖 **Integração de IA** (LLMs, Chatbots com Contexto)
-
----
-
-### 🚀 Quer ver mais do meu trabalho em ação?
-
-Convido você a conferir meu **Portfólio Visual** e o histórico das minhas entregas na plataforma onde atuo profissionalmente:
-
-<a href="https://www.workana.com/freelancer/ebaf9b0a960f0a48944e21ba85c858dd">
-  <img src="https://img.shields.io/badge/Ver_Perfil_na_Workana-4F5B93?style=for-the-badge&logo=freelancer&logoColor=white" alt="Workana Profile" />
-</a>
-
----
-<div align="center">
-  <i>"Transformando café em código limpo e soluções escaláveis."</i> ☕
-</div>

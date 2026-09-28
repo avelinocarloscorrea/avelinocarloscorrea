@@ -8,7 +8,7 @@ Desenvolvo aplicações web e ferramentas para criação, produtividade e comér
 
 | Projeto | O que faz | Acessar |
 | --- | --- | --- |
-| **Upscaler Studio** | Amplia imagens e vídeos no navegador, com comparação do resultado e exportação local. | [Abrir ferramenta](https://upscalerstudio.esmeraldapaper.com.br/) · [Código](https://github.com/avelinocarloscorrea/upscaler-studio) |
+| **Upscaler Studio** | Amplia imagens e vídeos no navegador, com comparação do resultado e exportação local. | [Abrir ferramenta](https://esmeraldapaper.com.br/upscalerstudio/) · [Código](https://github.com/avelinocarloscorrea/upscaler-studio) |
 | **Calendar Studio** | Cria calendários personalizados com fotos e feriados brasileiros para impressão. | [Abrir ferramenta](https://www.esmeraldapaper.com.br/calendarstudio/) · [Código](https://github.com/avelinocarloscorrea/calendar) |
 | **Planner Studio** | Monta planners e agendas configuráveis com exportação em PDF vetorial. | [Abrir ferramenta](https://www.esmeraldapaper.com.br/plannerstudio/) · [Código](https://github.com/avelinocarloscorrea/planner) |
 | **Polaroide Studio** | Organiza fotos em folhas com formatos reais, legendas e marcas de corte. | [Abrir ferramenta](https://www.esmeraldapaper.com.br/polaroidestudio/) · [Código](https://github.com/avelinocarloscorrea/polaroide) |
